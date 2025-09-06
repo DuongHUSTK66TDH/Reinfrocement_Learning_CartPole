@@ -1,0 +1,10 @@
+gymnasium
+gymnasium[classic-control]
+torch
+numpy
+pandas
+tqdm
+huggingface_hub
+scikit-learn
+matplotlib
+opencv-python
